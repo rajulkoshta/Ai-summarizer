@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Summarize Articles Easily with OpenAI GPT-4 Summarizer
+### With our AI Article Summarizer, you can now extract a detailed summary of the article use it to save your time.Just enter the URL of the article and the Ai will generate a Summary of that article for you.
+you can check out the website here [AI Summarizer](https://summarizfy.netlify.app/)
